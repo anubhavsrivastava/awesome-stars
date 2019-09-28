@@ -79,6 +79,7 @@
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.  
 
 ## JavaScript
+- [gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action) - GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩  
 - [is-site-down-cli](https://github.com/anubhavsrivastava/is-site-down-cli) - cli cmd to check if a site is down elsewhere in world  
 - [perceptible](https://github.com/anubhavsrivastava/perceptible) - Detect visibility of DOM Elements  
 - [is-site-down](https://github.com/anubhavsrivastava/is-site-down) - Checks if a website is down for rest of world  
