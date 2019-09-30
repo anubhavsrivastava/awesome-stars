@@ -79,6 +79,7 @@
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.  
 
 ## JavaScript
+- [webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack or Parcel  
 - [gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action) - GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩  
 - [is-site-down-cli](https://github.com/anubhavsrivastava/is-site-down-cli) - cli cmd to check if a site is down elsewhere in world  
 - [perceptible](https://github.com/anubhavsrivastava/perceptible) - Detect visibility of DOM Elements  
@@ -263,6 +264,7 @@
 - [frontend-confs](https://github.com/benmvp/frontend-confs) - Frontend Conferences for Speaking  
 - [speaker-starter-kit](https://github.com/coryhouse/speaker-starter-kit) - Resources for aspiring speakers  
 - [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.  
+- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop  
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems  
 - [awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.  
 - [javascript-agent-memory](https://github.com/ulan/javascript-agent-memory) - JavaScript agent memory API  
@@ -374,10 +376,9 @@
 - [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar  
 
 ## TypeScript
-- [moveable](https://github.com/daybrush/moveable) - ↔️ ↕️ 🔄 Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable!  
+- [moveable](https://github.com/daybrush/moveable) - ↔️ ↕️ 🔄 Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!  
 - [oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.  
 - [scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library  
-- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop  
 - [aws-full-stack-template](https://github.com/awslabs/aws-full-stack-template) - AWS Full-Stack Template is a full-stack sample web application that creates a simple CRUD (create, read, update, delete) app, and provides the foundational services, components, and plumbing needed to get a basic web application up and running.  
 - [nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps  
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.  
